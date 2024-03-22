@@ -75,7 +75,9 @@ The application uses JWT for authentication. To access protected routes, include
 - jwt - Authentication
 - bodyParser - Request body parsing
 
+## Acknowledgments
 
+- - Thanks to CPDMed Team for inspiration or guidance
 
 
 
